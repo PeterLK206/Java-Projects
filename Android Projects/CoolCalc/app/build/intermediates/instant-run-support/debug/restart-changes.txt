@@ -1,0 +1,1 @@
+CHANGED,C:\Users\peter\Desktop\CoolCalc\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\peter\coolcalc\CalcActivity.class
